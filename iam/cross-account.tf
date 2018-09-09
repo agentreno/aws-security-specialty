@@ -28,6 +28,7 @@ data "aws_iam_policy" "prod-administrator" {
 resource "aws_iam_user" "example" {
     provider = "aws.development"
     name = "CrossAccountExampleUser"
+    force_destroy = true
 }
 
 resource "aws_iam_user_policy_attachment" "example-dev-administrator" {
