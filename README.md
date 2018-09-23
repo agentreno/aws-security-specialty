@@ -6,9 +6,9 @@ Preparation for the AWS Security Specialty exama
 
 ## TODO
 
-- Example of manually calling CloudWatch to create log group and append to it
+- ~~Example of manually calling CloudWatch to create log group and append to it~~
 - IAM example of conditions syntax
-- Example setup of multiple accounts and cross-account roles
+- ~~Example setup of multiple accounts and cross-account roles~~
 - GuardDuty example
 - Inspector example
 - Macie example
