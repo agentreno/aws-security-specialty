@@ -15,7 +15,7 @@ Preparation for the AWS Security Specialty exama
 - HSM example
 - Full terraform log and alert example based on AWS Config
 - ~~Full terraform log and alert example based on AWS CloudTrail (with S3 backup)~~
-- Examples of each type of S3 encryption
+- ~~Examples of each type of S3 encryption~~
 - Try out EBS volume encryption
 - WAF example
 - Identity federation example
